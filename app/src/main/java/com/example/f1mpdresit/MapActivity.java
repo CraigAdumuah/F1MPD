@@ -1,5 +1,9 @@
 package com.example.f1mpdresit;
-
+// Name                 Craig Adumuah_________________
+// Student ID           S2026435_________________
+// Programme of Study   Computing_________________
+//
+//
 import android.os.Bundle;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.FragmentActivity;
