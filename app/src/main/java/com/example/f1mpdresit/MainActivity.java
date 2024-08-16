@@ -1,5 +1,9 @@
 package com.example.f1mpdresit;
-
+// Name                 Craig Adumuah_________________
+// Student ID           S2026435_________________
+// Programme of Study   Computing_________________
+//
+//
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;

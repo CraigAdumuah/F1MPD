@@ -1,5 +1,9 @@
 package com.example.f1mpdresit;
-
+// Name                 Craig Adumuah_________________
+// Student ID           S2026435_________________
+// Programme of Study   Computing_________________
+//
+//
 public class Race {
     private String round;
     private String raceName;

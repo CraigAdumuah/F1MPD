@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
+    <!-- Name             Craig Adumuah
+     Student ID           S2026435
+     Programme of Study   Computing-->
     <ScrollView
         android:layout_width="0dp"
         android:layout_height="0dp"

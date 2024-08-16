@@ -4,7 +4,9 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:padding="8dp">
-
+    <!-- Name             Craig Adumuah
+        Student ID           S2026435
+        Programme of Study   Computing-->
     <TextView
         android:id="@+id/positionText"
         android:layout_width="wrap_content"
